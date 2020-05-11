@@ -4,13 +4,13 @@ title: About Me
 # subtitle:
 ---
 
-My name is Peter Glotfelty and I'm a software develoepr at
+My name is Peter Glotfelty and I'm a software developer at Microsoft. I grew up in the midwest, and spent a summer
+interning at MS before deciding to come back full time in 2016 to the Windows Developer Group. Since then,
+I've moved teams, and I currently work on the Azure Machine Learning team doing infrastructure work.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In my free time, I tinker with lots of different corners of the things and maintain a popular [rust][1] library
+called [strum][2].
 
-What else do you need?
+[1]: https://www.rust-lang.org/
+[2]: https://github.com/Peternator7/strum
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

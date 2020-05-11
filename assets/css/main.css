@@ -65,7 +65,7 @@ hr.small {
 }
 
 /* fix in-page anchors to not be behind fixed header */
-:target:before { 
+:target:before {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
@@ -332,7 +332,7 @@ img {
   display: inline-block;
   margin-left: -50%;
   {% unless site.round-avatar == false %}
-    border-radius: 50%;
+    border-radius: 25%;
     box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
     -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
@@ -341,7 +341,7 @@ img {
 .navbar-custom .avatar-container .avatar-img {
   width: 100%;
   {% unless site.round-avatar == false %}
-    border-radius: 50%;
+    border-radius: 25%;
   {% endunless %}
   display: block;
 }
@@ -716,7 +716,7 @@ footer .footer-custom-content {
     display: block;
   }
 }
-.reader-time .middot { 
+.reader-time .middot {
   margin: 0 0.625rem;
 }
 

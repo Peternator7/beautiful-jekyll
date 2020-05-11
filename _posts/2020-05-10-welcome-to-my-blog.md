@@ -10,4 +10,4 @@ comments: true
 ---
 
 Hello and welcome to my blog. My name is Peter, and I'm a software
-developer working at Microsoft Corp. working in the Greater Seattle area.
+developer working at Microsoft working in the Greater Seattle area.
